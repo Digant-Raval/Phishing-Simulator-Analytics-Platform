@@ -29,8 +29,6 @@ The goal is to **educate users on phishing risks** while providing a safe enviro
 - **python-user-agents** – device, OS, and browser detection  
 
 ---
-## 🚀 Getting Started
-
 ## 🚀 How to Run
 
 ```bash
