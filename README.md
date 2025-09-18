@@ -34,7 +34,7 @@ The goal is to **educate users on phishing risks** while providing a safe enviro
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Digant-Raval/Phishing-Simulator-Analytics-Platform.git
-cd phishtracker
+cd Phishing-Simulator-Analytics-Platform
 
 # 2. Create & activate virtual environment
 python3 -m venv venv
