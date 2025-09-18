@@ -1,5 +1,5 @@
 <h1 align="center">🎣 PhishTracker</h1>
-<h3 align="center">Phishing Simulation & Awareness Tool</h3>
+<h3 align="center">Phishing Simulation & Analytics Platform</h3>
 
 ---
 
@@ -29,10 +29,3 @@ The goal is to **educate users on phishing risks** while providing a safe enviro
 - **python-user-agents** – device, OS, and browser detection  
 
 ---
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/phishtracker.git
-cd phishtracker
