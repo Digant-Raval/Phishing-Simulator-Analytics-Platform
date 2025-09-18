@@ -1,10 +1,10 @@
-<h1 align="center">🎣 PhishTracker</h1>
+<h1 align="center">🎣 PhishBait</h1>
 <h3 align="center">Phishing Simulation & Analytics Platform</h3>
 
 ---
 
 ## 📖 Overview
-PhishTracker is a phishing simulation platform built for **security awareness and demonstration purposes**.  
+PhishBait is a phishing simulation platform built for **security awareness and demonstration purposes**.  
 It allows you to send simulated phishing emails, track clicks in real-time, and analyze results in a clean dashboard.  
 The goal is to **educate users on phishing risks** while providing a safe environment for testing and training.  
 
